@@ -1,7 +1,13 @@
+const createDragon = (name) => {
+  const Dragon = {
+    name: name,
+  }
 
+  return Dragon
+}
 
 module.exports = {
-  // createDragon, 
+  createDragon, 
   // greetRider, 
   // eat, 
   // findFireBreathers

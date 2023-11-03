@@ -3,7 +3,7 @@ var { createDragon, greetRider, eat, findFireBreathers} = require('../exercises/
 
 describe('Dragon', function() {
 
-  it.skip('should be able to create a dragon with a name', function() {
+  it('should be able to create a dragon with a name', function() {
     var dragon = createDragon('Jeff');
 
     assert.equal(dragon.name, 'Jeff');
