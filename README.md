@@ -57,7 +57,7 @@ Completing all of these test suites is not necessary, but you should be working 
 - [X] ✂️ [Barber Shop](./barber-shop/)
 - [X] 🥗 [Meal Planning](./meal-planning/)
 - [X] 🍜 [Restaurant](./restaurant/)
-- [ ] 🧖‍♀️ [Spa](./spa/)
+- [X] 🧖‍♀️ [Spa](./spa/)
 - [ ] 🎵 [Spotify](./spotify/)
 - [ ] 📼 [VHS](./vhs/)
 
